@@ -12,7 +12,7 @@ export class MuniecaService {
   constructor(private httpClient: HttpClient) { }
 
 getMuniecas(): Observable<Munieca[]> {
-  return this.httpClient.get<{ mensaje: string; personajes: any[] }>(`${this.baseUrl}/todos`)
+  return this.httpClient.get<{ mensaje: string; personajes: any[] }>(`${this.baseUrl}/todos/`)
     .pipe(
       tap(response => console.log('API Response:', response)), // <-- Verificar respuesta
       map(response => {
