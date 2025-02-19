@@ -1,0 +1,42 @@
+<div class="register-container flex justify-content-center align-items-center bg-white">
+    <mat-card class="register-card shadow-5" style="background: #fff; color: #000;">
+      <mat-card-header class="text-center">
+        <mat-card-title class="text-3xl font-bold p-3">Crear Cuenta</mat-card-title>
+      </mat-card-header>
+  
+      <mat-card-content>
+        <form>
+          <mat-form-field class="w-full mb-3">
+            <mat-label>Nombre</mat-label>
+            <input type="text" matInput placeholder="Tu nombre" />
+          </mat-form-field>
+  
+          <mat-form-field class="w-full mb-3">
+            <mat-label>Correo Electrónico</mat-label>
+            <input type="email" matInput placeholder="ejemplo@correo.com" />
+          </mat-form-field>
+  
+          <mat-form-field class="w-full mb-3">
+            <mat-label>Contraseña</mat-label>
+            <input type="password" matInput placeholder="Contraseña" />
+          </mat-form-field>
+  
+          <mat-form-field class="w-full mb-3">
+            <mat-label>Confirmar Contraseña</mat-label>
+            <input type="password" matInput placeholder="Repite tu contraseña" />
+          </mat-form-field>
+  
+          <button mat-flat-button color="primary" class="w-full mt-4 text-lg">
+            <mat-icon class="mr-2">person_add</mat-icon> Registrar
+          </button>
+        </form>
+      </mat-card-content>
+  
+      <mat-card-actions class="justify-content-center mt-3">
+        <a routerLink="/auth/login" class="text-base no-underline hover:no-underline">
+          ¿Ya tienes cuenta? Inicia sesión
+        </a>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+  

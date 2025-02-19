@@ -1,0 +1,79 @@
+<h3>
+    {{ currentMunieca._id ? 'Editar' : 'Agregar' }}
+    Muñeca
+    <small *ngIf="currentMunieca._id"> {{currentMunieca.Nombre }}</small>
+  </h3>
+  <mat-divider class="mb-2"></mat-divider>
+  <div class="grid">
+    <div class="col-12 sm:col-6">
+      <mat-card>
+        <mat-card-content>
+          <form class="grid" [formGroup]="muniecaForm" (ngSubmit)="onSubmit()">
+            <mat-form-field class="col-12 sm:col-6">
+              <mat-label>Nombre</mat-label>
+              <input
+                matInput
+                type="text"
+                required
+                formControlName="Nombre"
+              >
+            </mat-form-field>
+            <mat-form-field class="col-12 sm:col-6">
+              <mat-label>Tipo</mat-label>
+              <input
+                matInput
+                type="text"
+                required
+                formControlName="TipoDeMonstruo"
+              >
+            </mat-form-field>
+            <mat-form-field class="col-12">
+              <mat-label>Fecha de lanzamiento</mat-label>
+              <input
+                matInput
+                type="text"
+                required
+                formControlName="FechaDeLanzamiento"
+              >
+            </mat-form-field>
+            <mat-form-field class="col-12">
+              <mat-label>Ciudad Natal</mat-label>
+              <input
+                matInput
+                type="text"
+                formControlName="CiudadNatal"
+              >
+            </mat-form-field>
+            <mat-form-field class="col-12">
+              <mat-label>Edad</mat-label>
+              <input
+                matInput
+                type="text"
+                required
+                formControlName="Edad"
+              >
+            </mat-form-field>
+            <mat-form-field class="col-12">
+              <mat-label>Foto</mat-label>
+              <input
+                matInput
+                type="text"
+                formControlName="Foto"
+              >
+            </mat-form-field>
+          </form>
+          <div class="flex justify-content-between">
+            <button mat-flat-button *ngIf="currentMunieca._id" (click)="onDeleteHero()"> Borrar </button>
+            <span></span>
+            <button mat-flat-button (click)="onSubmit()"> <mat-icon>save</mat-icon> Guardar </button>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  
+    <div class="col-12 sm:col-6">
+        <mat-card style="background-color: white;">
+          <img [src]="muniecaForm.value.Foto" alt="Imagen de la muñeca" mat-card-image style="max-width: 200px; display: block; margin: 0 auto;">
+        </mat-card>
+      </div>
+    </div>

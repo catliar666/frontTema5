@@ -1,0 +1,16 @@
+<!-- Tarjeta de bienvenida ocupando todo el ancho -->
+<div class="w-full mb-5">
+  <mat-card class="shadow-5 flex justify-content-center align-items-center text-center bg-blue-700 text-white py-6" style="border-radius: 0;">
+    <mat-card-content>
+      <h2 class="text-4xl font-bold">¡Bienvenidas a Monster High!</h2>
+      <p class="text-lg mt-3">Descubre y colecciona a todas nuestras monstruitas favoritas.</p>
+    </mat-card-content>
+  </mat-card>
+</div>
+<mat-divider></mat-divider>
+
+<div class="grid mb-8">
+  <div *ngFor="let munieca of muniecas" class="col-12 sm:col-4 md:col-3 xl:col-2">
+    <app-card [munieca]="munieca"></app-card>
+  </div>
+</div>

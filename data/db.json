@@ -1,0 +1,1882 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Maria",
+      "email": "maria@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "usuario": "Jose",
+      "email": "jose@gmail.com",
+      "password": "abcd"
+    }
+  ],
+  "protagonistas": [
+    {
+      "id": 1,
+      "nombre": "Frankie Stein",
+      "tipo de monstruo": "hija de FrankeStein",
+      "fecha de lanzamiento": "2010",
+      "ciudad natal": "New Salem",
+      "edad": "15 días",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/1/1f/Profile_art_-_Frankie_Stein.jpg",
+      "mascota": {
+        "nombre": "Watzit",
+        "tipo": "perro"
+      },
+      "ediciones": [
+        {
+          "serie": "Basic",
+          "fecha de lanzamiento": "Julio 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dawn of the dance",
+          "fecha de lanzamiento": "Agosto 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Gloom Beach",
+          "fecha de lanzamiento": "Noviembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Scream Uniform",
+          "fecha de lanzamiento": "Diciembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "School's Out",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Killer Style I",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Day at the Maul",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Classroom",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Sweet 1600",
+          "fecha de lanzamiento": "Noviembre 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Maul Session",
+          "fecha de lanzamiento": "Enero 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores",
+          "fecha de lanzamiento": "Marzo 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores Pack",
+          "fecha de lanzamiento": "Julio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skultimate Roller Maze",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Ghouls Rule",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "I Heart Fashion",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scarily Ever After",
+          "fecha de lanzamiento": "Julio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scaris: City of Frights",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul's Alive",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "My Wardrobe and I",
+          "fecha de lanzamiento": "Diciembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Picture Day",
+          "fecha de lanzamiento": "Abril 2013",
+          "generación": 1
+        },
+        {
+          "serie": "13 Wishes",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Make a Splash",
+          "fecha de lanzamiento": "Julio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Power Ghouls",
+          "fecha de lanzamiento": "Agosto 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul Spirit",
+          "fecha de lanzamiento": "Diciembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Sweet Screams",
+          "fecha de lanzamiento": "Diciembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Coffin Bean",
+          "fecha de lanzamiento": "Enero 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Picnic Casket for 2",
+          "fecha de lanzamiento": "Enero 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion",
+          "fecha de lanzamiento": "Julio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion Recharge Chamber",
+          "fecha de lanzamiento": "Septiembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Geek Shriek",
+          "fecha de lanzamiento": "Noviembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freak du Chic",
+          "fecha de lanzamiento": "Mayo 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Frightfully Tall Ghouls",
+          "fecha de lanzamiento": "Julio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul",
+          "fecha de lanzamiento": "Diciembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Great Scarrier Reef",
+          "fecha de lanzamiento": "Noviembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoulfriends",
+          "fecha de lanzamiento": "Noviembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Budget Dead Tired",
+          "fecha de lanzamiento": "Diciembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Designer BOOO-tique",
+          "fecha de lanzamiento": "Noviembre 2015",
+          "generación": 2
+        },
+        {
+          "serie": "First Day of School",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Budget Fearleader",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Photo Booth Ghouls",
+          "fecha de lanzamiento": "Julio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Mad Science",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Ice Scream Ghouls",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Emoji",
+          "fecha de lanzamiento": "2017",
+          "generación": 2
+        },
+        {
+          "serie": "Lots of Looks",
+          "fecha de lanzamiento": "2017",
+          "generación": 2
+        },
+        {
+          "serie": "Swimming",
+          "fecha de lanzamiento": "2018",
+          "generación": 2
+        },
+        {
+          "serie": "Electrified-High Voltage",
+          "fecha de lanzamiento": "2018",
+          "generación": 2
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Coffee Break",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Ghoul Spirit",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Day Out",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Creepover Party",
+          "fecha de lanzamiento": "Enero 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monsteristas",
+          "fecha de lanzamiento": "Febrero 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Innovation",
+          "fecha de lanzamiento": "Mayo 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Amped Up",
+          "fecha de lanzamiento": "Septiembre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Scare-adise Island",
+          "fecha de lanzamiento": "Septiembre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Neon Frights",
+          "fecha de lanzamiento": "Final 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Styling Head",
+          "fecha de lanzamiento": "Marzo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Friends Series 2",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Fest",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Welcome Committee",
+          "fecha de lanzamiento": "2025",
+          "generación": 3
+        },
+        {
+          "serie": "Make-A-Monster Pet",
+          "fecha de lanzamiento": "2025",
+          "generación": 3
+        }
+      ],
+      "skullector": [
+        {
+          "serie": "Haunt Couture",
+          "fecha de lanzamiento": "febrero 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/bmmikqr6liznozo4urp1.jpg"
+        },
+        {
+          "serie": "San Diego Comic-Con",
+          "fecha de lanzamiento": "Julio 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/hj9pm0jmeq4lve1je4gd.jpg"
+        },
+        {
+          "serie": "Reel Drama",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/xbyceh3xwqrnrzdozhfa.jpg?v=1708504068"
+        },
+        {
+          "serie": "Haunt Couture Midnight Runway",
+          "fecha de lanzamiento": "Febrero 2023",
+          "foto": "https://creations.mattel.com/cdn/shop/products/fhnxe4udgld1hbyfindg.jpg"
+        },
+        {
+          "serie": "Stitched in Style",
+          "fecha de lanzamiento": "Octubre 2023",
+          "foto": "https://creations.mattel.com/cdn/shop/files/zuailkfrloasp2mrr0vm_08de99d4-7eb3-440c-ae11-94ed9090765f.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Draculaura",
+      "tipo de monstruo": "Vampiro",
+      "fecha de lanzamiento": "2010",
+      "ciudad natal": "Transilvania",
+      "edad": "1600",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/b/ba/Draculaura%E2%84%A2.png",
+      "mascota": {
+        "nombre": "Count Fabulous",
+        "tipo": "murciélago"
+      },
+      "ediciones": [
+        {
+          "serie": "Basic",
+          "fecha de lanzamiento": "Julio 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Gloom Beach",
+          "fecha de lanzamiento": "Noviembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "School's Out",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Killer Style I",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Day at the Maul",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Dawn of the Dance",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Go Monster High Team",
+          "fecha de lanzamiento": "Agosto 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Sweet 1600",
+          "fecha de lanzamiento": "Noviembre 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores",
+          "fecha de lanzamiento": "Enero 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Ghouls Rule",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Playset: Powder Room",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired II",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scarily Ever After",
+          "fecha de lanzamiento": "Julio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dot Deat Gorgeous",
+          "fecha de lanzamiento": "Agosto 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Playset: Roadster",
+          "fecha de lanzamiento": "Septiembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Playset: Coffin bean",
+          "fecha de lanzamiento": "Septiembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Picture day",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scaris: City of Frights",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "To Howl For",
+          "fecha de lanzamiento": "Diciembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired III",
+          "fecha de lanzamiento": "2013",
+          "generación": 1
+        },
+        {
+          "serie": "Make a Splash",
+          "fecha de lanzamiento": "Enero 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Make a Splash",
+          "fecha de lanzamiento": "Enero 2013",
+          "generación": 1
+        },
+        {
+          "serie": "13 Wishes",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Playset: Die-ner",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Music Festival",
+          "fecha de lanzamiento": "Julio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "I Heart Shoes",
+          "fecha de lanzamiento": "Julio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Art Class",
+          "fecha de lanzamiento": "Octubre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Frights, Camera, Action",
+          "fecha de lanzamiento": "Noviembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Sweet Screams",
+          "fecha de lanzamiento": "Diciembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Creepateria",
+          "fecha de lanzamiento": "Abril 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion",
+          "fecha de lanzamiento": "Junio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Playset: The Draculocker",
+          "fecha de lanzamiento": "Agosto 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion: Save Frankie",
+          "fecha de lanzamiento": "Agosto 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Monster Exchange",
+          "fecha de lanzamiento": "Noviembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Haunted",
+          "fecha de lanzamiento": "Noviembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Boo York",
+          "fecha de lanzamiento": "Mayo 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Maul Monsteristas",
+          "fecha de lanzamiento": "Junio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Frightfully Tall Ghouls",
+          "fecha de lanzamiento": "Julio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Scarnival",
+          "fecha de lanzamiento": "Julio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Boo York: Out of Tombers",
+          "fecha de lanzamiento": "Agosto 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoulfriends",
+          "fecha de lanzamiento": "Noviembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Great Scarrier Reef",
+          "fecha de lanzamiento": "Diciembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Monstrous Rivals",
+          "fecha de lanzamiento": "Julio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Basic Core",
+          "generación": 2
+        },
+        {
+          "serie": "First Day of School",
+          "generación": 2
+        },
+        {
+          "serie": "Photo Booth Ghouls",
+          "fecha de lanzamiento": "Julio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Emoji",
+          "fecha de lanzamiento": "Enero 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Howling Hoodies",
+          "fecha de lanzamiento": "Cancelada",
+          "generación": 2
+        },
+        {
+          "serie": "Fangtastic Road Trip",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Creepover Party Bedroom",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Gore-ganizer",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Ghoul Spirit",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Day Out",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Neon Frights",
+          "fecha de lanzamiento": "Final 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Creepover Party",
+          "fecha de lanzamiento": "Enero 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monsteristas",
+          "fecha de lanzamiento": "Febrero 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Innovation",
+          "fecha de lanzamiento": "Mayo 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Fearidescent",
+          "fecha de lanzamiento": "Junio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Ball",
+          "fecha de lanzamiento": "Julio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Bite in the Park",
+          "fecha de lanzamiento": "Octubre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Pets",
+          "fecha de lanzamiento": "Octubre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Enero 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Scare-adise Island",
+          "fecha de lanzamiento": "Abril 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Fest: Fangtastic Rockin'Food Truck",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrest: Monster Mysteries",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Fearbook",
+          "fecha de lanzamiento": "Julio 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Garden Mysteries",
+          "fecha de lanzamiento": "Noviembre 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Eeekend Getaway",
+          "fecha de lanzamiento": "Final 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Vamptastic Scooter",
+          "fecha de lanzamiento": "2025",
+          "generación": 3
+        }
+      ],
+      "skullector": [
+        {
+          "serie": "Collector",
+          "fecha de lanzamiento": "Julio 2015",
+          "foto": "https://m.media-amazon.com/images/I/81aDwfXozML._AC_SX425_.jpg"
+        },
+        {
+          "serie": "Haunt Couture",
+          "fecha de lanzamiento": "Abril 2022",
+          "foto": "https://i.ebayimg.com/images/g/2fAAAOSwIh9iieiC/s-l640.jpg"
+        },
+        {
+          "serie": "Boo-original Creeproduction",
+          "fecha de lanzamiento": "Mayo 2022",
+          "foto": "https://i.ebayimg.com/images/g/6PwAAOSwJLlnPgHg/s-l1600.webp"
+        },
+        {
+          "serie": "Reel Drama",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "foto": "https://i.ebayimg.com/images/g/B9wAAOSwYORnOnFx/s-l1600.webp"
+        },
+        {
+          "serie": "Howliday: Winter Edition",
+          "fecha de lanzamiento": "Octubre 2022",
+          "foto": "https://i.ebayimg.com/images/g/txcAAOSwciFneF9K/s-l1600.webp"
+        },
+        {
+          "serie": "Freak du Chic",
+          "fecha de lanzamiento": "Julio 2023",
+          "foto": "https://i.ebayimg.com/images/g/YHIAAOSwzX9nUIML/s-l1600.webp"
+        },
+        {
+          "serie": "Vampire Heart",
+          "fecha de lanzamiento": "Octubre 2023",
+          "foto": "https://i.ebayimg.com/images/g/vbEAAOSw8mRnBiJL/s-l1600.webp"
+        },
+        {
+          "serie": "Howliday: Love Edition",
+          "fecha de lanzamiento": "Enero 2024",
+          "foto": "https://i.ebayimg.com/images/g/8NYAAOSwzfFl2mkE/s-l1600.webp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Clawdeen Wolf",
+      "tipo de monstruo": "Mujer lobo",
+      "fecha de lanzamiento": "2010",
+      "edad": "16",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/6/61/Profile_art_-_Basic_Clawdeen_I.jpg",
+      "mascota": {
+        "nombre": "Chewlian",
+        "tipo": "perro"
+      },
+      "ediciones": [
+        {
+          "serie": "Basic",
+          "fecha de lanzamiento": "Julio 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dawn of the Dance",
+          "fecha de lanzamiento": "Agosto 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Gloom Beach",
+          "fecha de lanzamiento": "Noviembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Scream Uniform",
+          "fecha de lanzamiento": "Diciembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "School's Out",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Day at the Maul",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Room to Howl",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "School Clubs",
+          "fecha de lanzamiento": "Agosto 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Sweet 1600",
+          "fecha de lanzamiento": "Noviembre 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Campus Stroll",
+          "fecha de lanzamiento": "Marzo 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Maul Session",
+          "fecha de lanzamiento": "Abril 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Coffin Bean",
+          "fecha de lanzamiento": "Abril 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Ghouls Rule",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores",
+          "fecha de lanzamiento": "Julio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scarily Ever After",
+          "fecha de lanzamiento": "Julio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Killer Style II",
+          "fecha de lanzamiento": "Agosto 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scaris: City of Frights",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul's Alive",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skultimate Roller Maze",
+          "fecha de lanzamiento": "Diciembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Power Ghouls",
+          "fecha de lanzamiento": "Enero 2013",
+          "generación": 1
+        },
+        {
+          "serie": "13 Wishes",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Music Festival",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "I Heart Fashion",
+          "fecha de lanzamiento": "Julio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul's Night Out",
+          "fecha de lanzamiento": "Agosto 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Frights, Camera, Action",
+          "fecha de lanzamiento": "Noviembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "New Scaremester",
+          "fecha de lanzamiento": "Noviembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul Sports",
+          "fecha de lanzamiento": "Mayo 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion",
+          "fecha de lanzamiento": "Junio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion: Save Frankie",
+          "fecha de lanzamiento": "Agosto 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Make a Splash",
+          "fecha de lanzamiento": "2014",
+          "generación": 1
+        },
+        {
+          "serie": "A Pack of Trouble",
+          "fecha de lanzamiento": "Agosto 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky field Trip",
+          "fecha de lanzamiento": "Noviembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Haunted",
+          "fecha de lanzamiento": "Noviembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Boo York",
+          "fecha de lanzamiento": "Mayo 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Scare & Makeup",
+          "fecha de lanzamiento": "Junio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Maul Monsteristas",
+          "fecha de lanzamiento": "Junio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "freak du Chic",
+          "fecha de lanzamiento": "Julio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Frightfully Tall ghouls",
+          "fecha de lanzamiento": "Julio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Boo York: Out of Tombers",
+          "fecha de lanzamiento": "Agosto 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoulfriends",
+          "fecha de lanzamiento": "Noviembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Great Scarrier Reef",
+          "fecha de lanzamiento": "Diciembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Fierce Rockers",
+          "fecha de lanzamiento": "Enero 2016",
+          "generación": 1
+        },
+        {
+          "serie": "Basic Core",
+          "generación": 2
+        },
+        {
+          "serie": "First Day of School",
+          "fecha de lanzamiento": "Junio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Dance the Fright Away",
+          "fecha de lanzamiento": "Junio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Budget Dead Tired",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "One Team, One Scream: Winning Werewolves",
+          "fecha de lanzamiento": "2017",
+          "generación": 2
+        },
+        {
+          "serie": "Emoji",
+          "fecha de lanzamiento": "Enero 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Day Out",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Ghoul Spirit",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Studio",
+          "fecha de lanzamiento": "2023",
+          "generación": 3
+        },
+        {
+          "serie": "Creepover Party",
+          "fecha de lanzamiento": "Enero 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monsteristas",
+          "fecha de lanzamiento": "Febrero 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Innovation",
+          "fecha de lanzamiento": "Mayo 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Fearidescent",
+          "fecha de lanzamiento": "Junio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Ball",
+          "fecha de lanzamiento": "Julio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Fangtastic Road Trip",
+          "fecha de lanzamiento": "Septiembre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Creepover Party Bedroom",
+          "fecha de lanzamiento": "Septiembre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Pets",
+          "fecha de lanzamiento": "Octubre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Pets Wave 3",
+          "fecha de lanzamiento": "Enero 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Scare-adise Island",
+          "fecha de lanzamiento": "Febrero 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Fest",
+          "fecha de lanzamiento": "Abril 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Monster Mysteries",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Eeekend Getaway",
+          "fecha de lanzamiento": "2024",
+          "generación": 3
+        },
+        {
+          "serie": "After Ghoul Activities",
+          "fecha de lanzamiento": "Abril 2025",
+          "generación": 3
+        }
+      ],
+      "skullector": [
+        {
+          "serie": "Haunt Couture",
+          "fecha de lanzamiento": "Marzo 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/ndbfy91titdnur2qucsx.jpg"
+        },
+        {
+          "serie": "Boo-original Creeproduction",
+          "fecha de lanzamiento": "Mayo 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/qqf9eqbqz0u3ycm6sj2v_7a274c30-bbb3-4e28-a65b-7c61ded3d83a.jpg"
+        },
+        {
+          "serie": "Reel Drama",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/vpp6ep8hcqifbp8ntqdi.jpg"
+        },
+        {
+          "serie": "Howliday: Winter Edition",
+          "fecha de lanzamiento": "Septiembre 2023",
+          "foto": "https://creations.mattel.com/cdn/shop/products/fkbcbdwx7wy6nyvsbynh.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Ghoulia Yelps",
+      "tipo de monstruo": "Zombie",
+      "fecha de lanzamiento": "2010",
+      "edad": "16",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/2/24/Ghoulia_Yelps%E2%84%A2.png",
+      "mascota": {
+        "nombre": "Sir Hoots A Lot",
+        "tipo": "Búho"
+      },
+      "ediciones": [
+        {
+          "serie": "Basic",
+          "fecha de lanzamiento": "Octubre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Dawn of the Dance",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Classroom",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Gloom Beach",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Go Monster High Team",
+          "fecha de lanzamiento": "Agosto 2011",
+          "generación": 1
+        },
+        {
+          "serie": "School Clubs",
+          "fecha de lanzamiento": "Agosto 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores",
+          "fecha de lanzamiento": "Octubre 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Skultimate Roller Maze",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Playset: Scooter",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dot Dead Gorgeous",
+          "fecha de lanzamiento": "Agosto 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scaris: City of Frights",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Mad Science",
+          "fecha de lanzamiento": "Mayo 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul's Night Out",
+          "fecha de lanzamiento": "Agosto 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion",
+          "fecha de lanzamiento": "Julio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Sweet Screams",
+          "fecha de lanzamiento": "Julio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Love's Not Dead",
+          "fecha de lanzamiento": "Junio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Geek Shriek",
+          "fecha de lanzamiento": "Julio 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Neon Frights",
+          "fecha de lanzamiento": "2023",
+          "generación": 3
+        }
+      ],
+      "skullector": [
+        {
+          "serie": "Dead Fast SDCC 2011",
+          "fecha de lanzamiento": "Julio 2011",
+          "foto": "https://static.wikia.nocookie.net/monsterhigh/images/f/f0/Doll_stockphotography_-_SDCC_2011_Ghoulia_Yelps.jpg"
+        },
+        {
+          "serie": "Collector",
+          "fecha de lanzamiento": "Junio 2017",
+          "foto": "https://dollect.net/wp-content/uploads/2023/07/Monster-High-Collector-2-Pack-Cleo-and-Ghoulia-3-1024x1024.png"
+        },
+        {
+          "serie": "Ghouluxe",
+          "fecha de lanzamiento": "Marzo 2023",
+          "foto": "https://creations.mattel.com/cdn/shop/products/mlwx8isqnp5dkz4r9prg.jpg"
+        },
+        {
+          "serie": "Dead Fast SDCC 2024",
+          "fecha de lanzamiento": "Julio 2024",
+          "foto": "https://creations.mattel.com/cdn/shop/files/HRP95_C_24_0494_v1a.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Cleo de Nile",
+      "tipo de monstruo": "Momia",
+      "fecha de lanzamiento": "2010",
+      "ciudad natal": "Egipto",
+      "edad": "5842",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/8/82/Profile_art_-_Cleo_de_Nile.jpg",
+      "mascota": {
+        "nombre": "Hissette",
+        "tipo": "Serpiente"
+      },
+      "ediciones": [
+        {
+          "serie": "Basic",
+          "fecha de lanzamiento": "Julio 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dawn of the Dance",
+          "fecha de lanzamiento": "Agosto 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Gloom Beach",
+          "fecha de lanzamiento": "Noviembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "School's Out",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Go Monster High Team",
+          "fecha de lanzamiento": "Agosto 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Ghouls Rule",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores",
+          "fecha de lanzamiento": "Julio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Picture Day",
+          "fecha de lanzamiento": "Noviembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Scaris: City of Frights",
+          "fecha de lanzamiento": "Marzo 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Mad Science",
+          "fecha de lanzamiento": "Mayo 2013",
+          "generación": 1
+        },
+        {
+          "serie": "13 Wishes",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "I Heart Shoes",
+          "fecha de lanzamiento": "Julio 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Fright, Camera, Action",
+          "fecha de lanzamiento": "Noviembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Creepateria",
+          "fecha de lanzamiento": "Abril 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion",
+          "fecha de lanzamiento": "Junio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "We Are Monster High",
+          "fecha de lanzamiento": "Julio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "I Heart Fashion",
+          "fecha de lanzamiento": "October 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Gloom and Bloom",
+          "fecha de lanzamiento": "Diciembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Boo York: Comet Crossed Couple",
+          "fecha de lanzamiento": "Abril 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Budget Basic",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Budget Cheerleader",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Welcome to Monster High: Dance the Fright Away",
+          "fecha de lanzamiento": "Junio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Ghoul's Beast Pet",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Scream & Sugar",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Ice Scream Ghouls",
+          "fecha de lanzamiento": "Julio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Music Class",
+          "fecha de lanzamiento": "Noviembre 2016",
+          "generación": 2
+        },
+        {
+          "serie": "First Day of School",
+          "fecha de lanzamiento": "Enero 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Dessert Ghouls",
+          "fecha de lanzamiento": "Enero 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Electrified-Hair: Raising Ghouls",
+          "fecha de lanzamiento": "Enero 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Garden Ghouls: Wings",
+          "fecha de lanzamiento": "Junio 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Monster Family: Monster Siblings",
+          "fecha de lanzamiento": "Junio 2017",
+          "generación": 2
+        },
+        {
+          "serie": "Ballerina Ghouls",
+          "fecha de lanzamiento": "2018",
+          "generación": 2
+        },
+        {
+          "serie": "Popart Ghouls",
+          "fecha de lanzamiento": "2018",
+          "generación": 2
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Ghoul Spirit",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Innovation",
+          "fecha de lanzamiento": "Mayo 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets",
+          "fecha de lanzamiento": "Junio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Ball",
+          "fecha de lanzamiento": "Julio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Boo-Jeweled Beauty Case",
+          "fecha de lanzamiento": "Agosto 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Pet",
+          "fecha de lanzamiento": "Octubre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Day Out",
+          "fecha de lanzamiento": "Febrero 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Fest",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Monster Mysteries",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Julio 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Self-Scare Day",
+          "fecha de lanzamiento": "Agosto 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Monsteristas",
+          "fecha de lanzamiento": "Agosto 2024",
+          "generación": 3
+        }
+      ],
+      "skullector": [
+        {
+          "serie": "Collector",
+          "fecha de lanzamiento": "Junio 2017",
+          "foto": "https://dollect.net/wp-content/uploads/2023/07/Monster-High-Collector-2-Pack-Cleo-and-Ghoulia-3-1024x1024.png"
+        },
+        {
+          "serie": "Haunt Couture",
+          "fecha de lanzamiento": "Agosto 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/g9gxpvh711m6wd2zdfx7_c5f53a37-beed-421b-9378-3230138055f2.jpg"
+        },
+        {
+          "serie": "Howliday: Love Edition",
+          "fecha de lanzamiento": "Febrero 2023",
+          "foto": "https://static.wikia.nocookie.net/monsterhigh/images/d/d3/LT.jpeg"
+        },
+        {
+          "serie": "Haunt Couture Midnight Runway",
+          "fecha de lanzamiento": "Febrero 2023",
+          "foto": "https://creations.mattel.com/cdn/shop/products/t4xvjkmvlmlzlrsdey12.jpg"
+        },
+        {
+          "serie": "Mummy Majesties",
+          "fecha de lanzamiento": "Octubre 2024",
+          "foto": "https://creations.mattel.com/cdn/shop/files/eewii5qo98gvdovqamla_eb7f90a2-f789-4a02-9037-55366419bbc6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Lagoona Blue",
+      "tipo de monstruo": "Monstruo marino",
+      "fecha de lanzamiento": "2010",
+      "edad": "16",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/7/7c/Profile_art_-_Lagoona_Blue.jpg",
+      "mascota": {
+        "nombre": "Neptuna",
+        "tipo": "Piraña"
+      },
+      "ediciones": [
+        {
+          "serie": "Basic",
+          "fecha de lanzamiento": "Julio 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Scream Uniform",
+          "fecha de lanzamiento": "Diciembre 2010",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Dead Tired",
+          "fecha de lanzamiento": "Septiembre 2013",
+          "generación": 2
+        },
+        {
+          "serie": "Dawn of the Dance",
+          "fecha de lanzamiento": "Junio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "School's Out",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Classroom",
+          "fecha de lanzamiento": "Julio 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Skull Shores",
+          "fecha de lanzamiento": "Octubre 2011",
+          "generación": 1
+        },
+        {
+          "serie": "Maul Session",
+          "fecha de lanzamiento": "Abril 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Skultimate Roller Maze",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dot Dead Gorgeous",
+          "fecha de lanzamiento": "Junio 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Dance Class",
+          "fecha de lanzamiento": "Octubre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "To Howl For",
+          "fecha de lanzamiento": "Diciembre 2012",
+          "generación": 1
+        },
+        {
+          "serie": "Make a Splash",
+          "fecha de lanzamiento": "Enero 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Scaris: City of Frights",
+          "fecha de lanzamiento": "Marzo 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Picture Day",
+          "fecha de lanzamiento": "Abril 2013",
+          "generación": 1
+        },
+        {
+          "serie": "13 Wishes",
+          "fecha de lanzamiento": "Mayo 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Ghoul's Night Out",
+          "fecha de lanzamiento": "Junio 2013",
+          "generación": 2
+        },
+        {
+          "serie": "Frights, Camera, Action! - Black Carpet",
+          "fecha de lanzamiento": "Noviembre 2013",
+          "generación": 1
+        },
+        {
+          "serie": "Freaky Fusion - Freaky Fusions",
+          "fecha de lanzamiento": "Junio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "We Are Monster High",
+          "fecha de lanzamiento": "Julio 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Monster Exchange",
+          "fecha de lanzamiento": "Noviembre 2014",
+          "generación": 1
+        },
+        {
+          "serie": "Wheel Love",
+          "fecha de lanzamiento": "Mayo 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Fangtastic Fitness",
+          "fecha de lanzamiento": "Mayo 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Great Scarrier Reef - Glowsome Ghoulfish",
+          "fecha de lanzamiento": "Noviembre 2015",
+          "generación": 1
+        },
+        {
+          "serie": "Surf-to-Turf",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Budget Cheerleader",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Welcome to Monster High - Dance the Fright Away",
+          "fecha de lanzamiento": "Junio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Shriekwrecked - Nautical Ghouls",
+          "fecha de lanzamiento": "Julio 2016",
+          "generación": 2
+        },
+        {
+          "serie": "Ghoul's Beast Pet",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Emoji",
+          "fecha de lanzamiento": "Enero 2017",
+          "generación": 2
+        },
+        {
+          "serie": "First Day of School",
+          "fecha de lanzamiento": "2016",
+          "generación": 2
+        },
+        {
+          "serie": "Teen Hangout",
+          "fecha de lanzamiento": "2017",
+          "generación": 2
+        },
+        {
+          "serie": "Budget Swimming",
+          "fecha de lanzamiento": "2017",
+          "generación": 2
+        },
+        {
+          "serie": "Transforming Ghouls",
+          "fecha de lanzamiento": "2018",
+          "generación": 2
+        },
+        {
+          "serie": "Popart Ghouls",
+          "fecha de lanzamiento": "2018",
+          "generación": 2
+        },
+        {
+          "serie": "Faboolous Friends",
+          "fecha de lanzamiento": "Octubre 2022",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Innovation",
+          "fecha de lanzamiento": "Mayo 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Skulltimate Secrets: Fearidescent",
+          "fecha de lanzamiento": "Junio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Ball",
+          "fecha de lanzamiento": "Julio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Spa Day",
+          "fecha de lanzamiento": "Julio 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Fan-Sea",
+          "fecha de lanzamiento": "Agosto 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Scare-adise Island: Snack Shack",
+          "fecha de lanzamiento": "Septiembre 2023",
+          "generación": 3
+        },
+        {
+          "serie": "Student Dolls Series 2",
+          "fecha de lanzamiento": "Abril 2024",
+          "generación": 3
+        },
+        {
+          "serie": "Monster Fest",
+          "fecha de lanzamiento": "Mayo 2024",
+          "generación": 3
+        },
+        {
+          "serie": "After Ghoul Activities",
+          "fecha de lanzamiento": "Primavera 2025",
+          "generación": 3
+        }
+      ],
+      "skullector": [
+        {
+          "serie": "Boo-riginal Creeproduction",
+          "fecha de lanzamiento": "Mayo 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/nlar6wfze2xiy7bdaukb.jpg"
+        },
+        {
+          "serie": "Haunt Couture",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/voeadkcx2cuepn00spza.jpg"
+        },
+        {
+          "serie": "Reel Drama",
+          "fecha de lanzamiento": "Septiembre 2022",
+          "foto": "https://creations.mattel.com/cdn/shop/products/bv6deuzrrflrpdayuos6_98096a21-e7a9-41ac-be2b-0a43fad99ecb.jpg"
+        }
+      ]
+    }
+  ],
+  "secundarias": [
+    {
+      "id": 8,
+      "nombre": "Amanita Nightshade",
+      "tipo de monstruo": "Planta",
+      "fecha de lanzamiento": "2015",
+      "ciudad natal": "Flor Cádaver",
+      "edad": "17",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/0/0f/Amanita_Nightshade.png",
+      "mascota": {
+        "nombre": "Amanita",
+        "tipo": "gusano"
+      }
+    },
+    {
+      "id": 9,
+      "nombre": "Andy Beast",
+      "tipo de monstruo": "Kaiju",
+      "fecha de lanzamiento": "2012",
+      "ciudad natal": "Isla Calavera",
+      "edad": "16",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/7/7a/Escape_From_Skull_Shores_-_Andy_pouts.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Ari Hauntington",
+      "tipo de monstruo": "Fantasma",
+      "fecha de lanzamiento": "2016",
+      "edad": "15",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/6/63/Static-assets-upload9068824737864195100.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Avea Trotter",
+      "tipo de monstruo": "Híbrida",
+      "fecha de lanzamiento": "2014",
+      "edad": "17",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/0/0f/Avea_Trotter%E2%84%A2.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Bonita Femur",
+      "tipo de monstruo": "Híbrida",
+      "fecha de lanzamiento": "2014",
+      "ciudad natal": "Virginia",
+      "edad": "16",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/d/d7/Tumblr_n4mkwjtrW21szp73uo3_1280.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Skelita Calaveras",
+      "tipo de monstruo": "Esqueleto",
+      "fecha de lanzamiento": "2012",
+      "ciudad natal": "Hexico",
+      "edad": "15",
+      "foto": "https://static.wikia.nocookie.net/monsterhigh/images/c/c6/Skelita_Calaveras%E2%84%A2.png"
+    }
+  ]
+}
