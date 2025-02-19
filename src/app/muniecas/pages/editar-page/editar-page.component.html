@@ -73,7 +73,7 @@
   
     <div class="col-12 sm:col-6">
         <mat-card style="background-color: white;">
-          <img [src]="muniecaForm.value.Foto" alt="Imagen de la muñeca" mat-card-image style="max-width: 200px; display: block; margin: 0 auto;">
+          <img  [src]="muniecaForm.value.Foto || 'no-image.png'" alt="Imagen de la muñeca" mat-card-image style="max-width: 200px; display: block; margin: 0 auto;">
         </mat-card>
       </div>
     </div>

@@ -86,7 +86,7 @@ export class EditarPageComponent {
   }
 
   onDeleteHero(){
-    if ( !this.currentMunieca._id ) throw Error('Hero id is required');
+    if ( !this.currentMunieca._id ) throw Error('Muñeca id is required');
 
     const dialogRef = this.dialog.open(ConfirmDialogComponent, {
       data: {name: this.muniecaForm.value}
@@ -98,7 +98,7 @@ export class EditarPageComponent {
       this.muniecaService.deleteMuniecaById( this.currentMunieca._id )
       .subscribe ( wasDeleted =>{
         if ( wasDeleted )
-          this.router.navigate(['/heroes'])
+          this.router.navigate(['/muniecas'])
       })
 
     });
@@ -111,7 +111,7 @@ export class EditarPageComponent {
       tap ( wasDeleted => console.log({wasDeleted})
       )
     ).subscribe(result => {
-      this.router.navigate(['/heroes'])
+      this.router.navigate(['/muniecas'])
     })
 
 
